@@ -37,17 +37,17 @@ btn.addEventListener("click", function () {
     // Set image Src
 
 
-    popupimg.src = "/imgs/king.png";
+    popupimg.src = "imgs/king.png";
     link.href = "https://king-template.netlify.app/";
     link.innerText = "Preview";
 
 
-    popupimgTwo.src = "/imgs/template-three.png";
+    popupimgTwo.src = "imgs/template-three.png";
     link2.href = "https://elawamy.netlify.app/";
     link2.innerText = "Preview";
 
 
-    popupimgThree.src = "/imgs/pro.png";
+    popupimgThree.src = "imgs/pro.png";
     link3.href = "https://portfolio-elawamy.netlify.app/";
     link3.innerText = "Preview";
 
